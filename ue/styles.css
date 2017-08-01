@@ -1,0 +1,16 @@
+body, html {
+	background-color: #040005;
+}
+
+#videodiv{
+	width:640px;
+    height:480px;
+	margin:auto;
+	background-color: #040005;
+} 
+
+#video1{
+	width:640px;
+    height:480px;
+}
+
